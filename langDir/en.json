@@ -1,0 +1,634 @@
+{
+  "translation": "english",
+  "create": "Create",
+  "Create": "Create",
+  "credit": "Credit",
+  "Credit": "Credit",
+  "gallery": "Gallery",
+  "Gallery": "Gallery",
+  "Classic": "Classic",
+  "accounts": "Accounts",
+  "Accounts": "Accounts",
+  "transfer": "Transfer",
+  "Transfer": "Transfer",
+  "Transform": "Transform",
+  "Identity": "Identity",
+  "Profile": "Profile",
+  "settings": "Settings",
+  "Settings": "Settings",
+  "first NFT market explorer on Kusama and Polkadot": "first NFT market explorer on Kusama and Polkadot",
+  "legend": "Legend",
+  "collection": "Collection",
+  "Collection": "Collection",
+  "owner": "Owner",
+  "actions": "Actions",
+  "facts": "Facts",
+  "instance": "Instance",
+  "Instance": "Instance",
+  "context": "Create Collection for your NFTs",
+  "using": "using",
+  "computed id": "Computed id",
+  "content": "Content",
+  "create collection": "Create Collection",
+  "Owner address of minted art": "Owner address of minted art",
+  "Name you want to show in gallery view": "Name you want to show in gallery view",
+  "Symbol you want to trade it under": "Symbol you want to trade it under",
+  "Describe your collection, it will show under collection view": "Describe your collection, it will show under collection view",
+  "Add collection cover which will show up at collection view": "Add collection cover which will show up at collection view",
+  "Select collection where do you want mint your token": "Select collection where do you want mint your token",
+  "Maximum NFTs in collection": "Maximum NFTs in collection",
+  "Account": "Account",
+  "Name": "Name",
+  "Symbol": "Symbol (Short name)",
+  "Description": "Description",
+  "Multimedia data": "Multimedia data",
+  "Metadata IPFS Hash": "Metadata IPFS Hash",
+  "Learn More": "Learn More",
+  "See More": "See More",
+  "Latest sales": "Latest sales",
+  "Add Token": "Add Token",
+  "Mint": "Mint",
+  "Transferable is by default": "Transferable is by default",
+  "Serial Number": "Serial Number",
+  "Name of your token": "Name of your token",
+  "Instance_tooltip": "Instance is like the identifier of an NFT, like a marketplace ticker. It's a \"short computer-friendly name\"",
+  "Upload will upload your image of the NFT": "Upload will upload your image of the NFT",
+  "Click to add image": "Click to add image",
+  "Add Animated File": "Add Animated File",
+  "Image data": "Image data",
+  "Explorer": "Explorer",
+  "Gallery of NFT Tokens and Collectibles": "Gallery of NFT Tokens and Collectibles",
+  "Create your NFT Token & Collectibles": "Create your NFT Token & Collectibles",
+  "New here? We have F.A.Q.": "New here? We have F.A.Q.",
+  "Feedback? We\\'d be happy to discuss it.": "Feedback? We'd be happy to discuss it.",
+  "Read our story, how we started.": "Read our story, how we started.",
+  "User Interface Mode": "User Interface Mode",
+  "Minting Settings": "Minting Settings",
+  "Advanced User Interface": "Advanced User Interface",
+  "Basic User Interface": "Basic User Interface",
+  "Enable Theatre View on default": "Enable Theatre View on default",
+  "Fold history and price chart in NFT view on default": "Fold history and price chart in NFT view on default",
+  "Fold description in collection view on default": "Fold description in collection view on default",
+  "Replace buy now with YOLO": "Replace buy now with YOLO",
+  "Always show NFT price by default": "Always show NFT price by default",
+  "Layout Options": "Layout Options",
+  "Gallery Items Per Page": "Gallery Items Per Page",
+  "Collections Per Page": "Collections Per Page",
+  "Frequently Asked Question": "Frequently Asked Question",
+  "I am helping to cover costs": "I am helping to cover costs",
+  "I do not want to support": "I do not want to support",
+  "faq": {
+    "q": {
+      "1": "What are NFTs?",
+      "2": "What is minting?",
+      "3": "How can I mint NFTs?",
+      "4": "What's the flow when I'm NFT creator?",
+      "5": "How can I sell KSM I got for my art?",
+      "6": "How can I obtain KSM as new-comer?",
+      "7": "Can I use this in virtual worlds?",
+      "8": "How can I buy KSM with ETH, DAI, BTC?",
+      "9": "I'm receiving errors. How can I resolve them?",
+      "10": "What does SEND, CONSUME, LIST mean?",
+      "11": "I've minted NFT, but I don't see it in gallery, where is it?",
+      "12": "Is there any other way to obtain small amount of KSM?",
+      "13": "How can I sell my NFT?",
+      "14": "Royalties streams settings?",
+      "15": "Why did you choose to build on Kusama/Polkadot and not Ethereum?",
+      "16": "What's the difference between creating Classic, Simple and Permafrost?",
+      "17": "Are you funded?",
+      "18": "Do you have Telegram channel?",
+      "19": "Will you have AR/VR mode or implementation?",
+      "20": "How to open the developer console?",
+      "21": "How do I update metadata for extension?",
+      "22": "I've got \"Low balance error\"",
+      "23": "How do I set identity?",
+      "24": "Is there an official KodaDot token?",
+      "25": "How can I contribute to the project?",
+      "26": "Is it possible to move nfts frome one collection to another?",
+      "27": "Where can i access latest KodaDot presskit?"
+    },
+    "a": {
+      "1": {
+        "m": "NFTs or non-fungible tokens refer to unique assets, which are stored on blockchain and maintain unique ownership. @.md:faq.a.1.l1",
+        "l1": "[You can find more about Non-Fungible Token at Wikipedia](@.common:links.wikipedia.nft)"      },
+      "2": {
+        "m": "Minting is a process in which your cryptocurrency wallet and blockchain communicate together and make you able to create NFTs."
+      },
+      "3": {
+        "m": "In the left upper corner, you click on @.md:faq.a.3.l1 and choose <b>Simple</b> or <b>Classic</b> mint.",
+        "l1": "[Create](@.common:links.rmrk_create.href)"
+      },
+      "4": {
+        "m": "First of all, you need to install @.md:faq.a.4.l1, <b>backup your seed</b>. Then you can top up your wallet address @.md:faq.a.4.l2 or use our @.md:faq.a.4.l3 feature. Once you have funds, head to @.md:faq.a.4.l4, choose Collection. Wait till Collection is minted, then you go to @.md:faq.a.4.l5 and Mint your very first token! Feel free to share it with us on our @.md:faq.a.4.l6",
+        "l1": "[Polkadot Extension](@.common:links.polkadot_js_extension.href)",
+        "l2": "[here](@.common:links.rmrk_credit.href)",
+        "l3": "[grant](@.common:links.artist_grant_program.href)",
+        "l4": "[Create](@.common:links.rmrk_create.href)",
+        "l5": "[Create Token](@.common:links.rmrk_create.href)",
+        "l6": "[Create Token.](@.common:links.kodadot_social.discord.href)"
+      },
+      "5": {
+        "m": "Right now, there's plenty of @.md:faq.a.5.l1 which support KSM trading. The safest are probably @.md:faq.a.5.l2 and @.md:faq.a.5.l3 or try decentralized @.md:faq.a.5.l4",
+        "l1": "[exchanges](@.common:links.coingecko_ksm_markets.href)",
+        "l2": "[Binance](@.common:links.binance_exchange.href)",
+        "l3": "[Bybit](@.common:links.bybit_exchange.href)",
+        "l4": "[simpleswap.](@.common:links.simpleswap_exchange.href)"
+      },
+      "6": {
+        "m": "We recommend to obtain KSM through custodial exchanges like @.md:faq.a.6.l1 and @.md:faq.a.6.l2 or you can use our RAMP network integration - a fiat ramp @.md:faq.a.6.l3 If you are struggling with this, feel free to ask for a @.md:faq.a.6.l4 or let us know in @.md:faq.a.6.l5 channel on discord.",
+        "l1": "[Binance](@.common:links.binance_exchange.href)",
+        "l2": "[Bybit](@.common:links.bybit_exchange.href)",
+        "l3": "[here.](@.common:links.rmrk_credit.href)",
+        "l4": "[grant](@.common:links.artist_grant_program.href)",
+        "l5": "[help](@.common:links.kodadot_social.discord_help.href)"
+      },
+      "7": {
+        "m": "We are exploring possibilities, we actually plan to actively research on this in our milestone 2."
+      },
+      "8": {
+        "m": "For best rates, you can @.md:faq.a.8.l1 For best experience @.md:faq.a.8.l2 If you are @.md:faq.a.8.l3",
+        "l1": "[use custodial exchange from list.](@.common:links.coingecko_ksm_price.href)",
+        "l2": "[we recommend you to use Binance.](@.common:links.binance_exchange.href)",
+        "l3": "[looking for simple trade, try SimpleSwap.](@.common:links.simpleswap_exchange.href)"
+      },
+      "9": {
+        "m": "We are trying to deliver incremental updates on daily basis & fixes ASAP. We may have published new version and your browser has cached old one. If you are on Windows, try hold down Ctrl and then press F5. Mac users, hold down CMD and Shift and then press R. If this did not help, DM us on Twitter or discord with screenshot where is developer console open."
+      },
+      "10": {
+        "m": "SEND will send it to someone, CONSUME will burn it, LIST will list it for sale so someone can buy it from you."
+      },
+      "11": {
+        "m": "Best way is to check through @.md:faq.a.11.l1 and lookup your address. @.md:faq.a.11.l2",
+        "l1": "[Subscan Explorer](@.common:links.kusama_scanner.href)",
+        "l2": "[You can find example how minted NFT looks through explorer, when you look on extrinsics.](@.common:links.kusama_scanner.extrinsic.href)"
+      },
+      "12": {
+        "m": "Yes, if for example it's problematic for you to withdraw from an exchange or use fiat-onramp, you may visit our discord and ask for small amount of KSM in @.md:faq.a.12.l1 channel on our discord or ask for @.md:faq.a.12.l2 to cover minting costs.",
+        "l1": "[help](@.common:links.kodadot_social.discord_help.href)",
+        "l2": "[grant](@.common:links.artist_grant_program.href)"
+      },
+      "13": {
+        "m": "If you haven't set the price of your NFT at the beginning, navigate to your @.md:faq.a.13.l1, choose your NFT in Created and click on LIST, which will make you able to set the price.",
+        "l1": "[profile](@.common:links.rmrk_profile.href)"
+      },
+      "14": {
+        "m": "Right now, we don't have chain logic, but we plan to implement something great, soon. @.md:faq.a.14.l1",
+        "l1": "[Stay with us and follow us @KodaDot!](@.common:links.kodadot_social.twitter.href)"
+      },
+      "15": {
+        "m": "We believe that costs for actions at Ethereum may be high in future and its current PoW is not environmentally friendly. We believe in network effects of Kusama/Polkadot effects from other parachains. A more detailed answer can be found @.md:faq.a.15.l1",
+        "l1": "[here.](@.common:links.chain_decision.href)"
+      },
+      "16": {
+        "m": "<b>CLASSIC</b> let's you create collection and add NFTs to it. <b>SIMPLE</b> mint will create NFT collectible and add it to your profile and <b>PERMAFROST</b> is NFT minting using Arweave protocol: The protocol matches people who have hard drive space to spare with those individuals and organizations that need to store data or host content permanently."
+      },
+      "17": {
+        "m": "Right now, we have @.md:faq.a.17.l1 We are actively looking for funding options, eventually we would raise private funds. DMs us, if you are interested into private sale.",
+        "l1": "[Kusama Treasury funding for Milestone 1.](@.common:links.kusama_polkassembly.kodadot_nft_explorer_post.href)"
+      },
+      "18": {
+        "m": "We only have a private channel for NFT creators. Feel free to DM us if you are a NFT creator!"
+      },
+      "19": {
+        "m": "Yes, that's part of our Milestone 2, stay tuned!"
+      },
+      "20": {
+        "m": "If you are on Mac, on Chrome hit <b>Option, CMD, J</b>, Firefox <b>Command + Option + K</b>."
+      },
+      "21": {
+        "m": "Go to @.md:faq.a.21.l1 and click the button <b>Update metadata</b>, then refresh your window. It should be working with recent chain types.",
+        "l1": "[Dotapps.io, Settings > Metadata](@.common:links.dotapps_io.kusama_rpc_settings_metadata.href)"
+      },
+      "22": {
+        "m": "Check if you have <b>transferable</b> $KSM on your account, not staked. That's different. You can check it at @.md:faq.a.22.l1 and at balances unfold, where the <b>Transferable</b> amount will be displayed.",
+        "l1": "[Dotapps.io > Comptes](@.common:links.dotapps_io.kusama_rpc_accounts.href)"
+      },
+      "23": {
+        "m": "You can learn more @.md:faq.a.23.l1",
+        "l1": "[how to set identity on Kusama network](@.common:links.kusama_network.docs.mirror_learn_identity.href)."
+      },
+      "24": {
+        "m": "No, there is no official token launched. Please follow official social media and be aware of scam and phissing attempts from unofficial sources. DYOR."
+      },
+      "25": {
+        "m": "We are always welcoming contributions from our community. There are numerous @.md:faq.a.25.l1 for all skill levels - some will even be rewarded in $KSM. @.md:faq.a.25.l2",
+        "l1": "[open issues](@.common:links.kodadot_social.open_issues.href)",
+        "l2": "[Make your first contribution!](@.common:links.kodadot_social.contributing_guide.href)"
+      },
+      "26": {
+        "m": "No, this possibility is not here at this moment. If you would like to propose a change, feel free to create an @.md:faq.a.26.l1 on our GitHub.",
+        "l1": "[issue](@.common:links.kodadot_social.open_issues.href)"
+      },
+      "27": {
+        "m": "You can access latest KodaDot presskit @.md:faq.a.27.l1",
+        "l1": "[here.](@.common:links.kodadot_social.presskit.href)"
+      }
+    }
+  },
+  "funfacts": {
+    "1": {
+      "heading": "Did you know...",
+      "question": "that back in 2015 we launched the first official NFT called Etheria?"
+    },
+    "2": {
+      "heading": "Did you know...",
+      "question": "that the first 'NFT-like' standard on Kusama is literally just byte strings?"
+    },
+    "3": {
+      "heading": "Did you know...",
+      "question": "that KodaDot has started as a rewrite of React-based DotApps dashboard into Vuejs?"
+    },
+    "4": {
+      "heading": "Did you know...",
+      "question": "that KodaDot is building an experimental NFT landscape?"
+    },
+    "5": {
+      "heading": "Did you know...",
+      "question": "that there is so much psychadelic and trippy NFT artwork? We do not know either."
+    },
+    "6": {
+      "heading": "Can you guess...",
+      "question": "how many parachains KodaDot does support? Get the exact answer on our Discord!"
+    },
+    "7": {
+      "heading": "Can you guess...",
+      "question": "how many GitHub forks the KodaDot repository has?"
+    },
+    "8": {
+      "heading": "Can you guess...",
+      "question": "how many GitHub stars the KodaDot repository has?"
+    },
+    "9": {
+      "heading": "Do you think ...",
+      "question": "KodaDot should launch its own $koda token?"
+    },
+    "10": {
+      "heading": "Can you guess...",
+      "question": "how many NFTs KodaDot is indexing from all parachains?"
+    },
+    "11": {
+      "heading": "Did you know...",
+      "question": "that KodaDot has an mobile app?"
+    },
+    "12": {
+      "heading": "Did you know...",
+      "question": "that KodaDot was among the first NFT galleries supporting augmented reality for 3D objects, back in early January 2021?"
+    },
+    "13": {
+      "heading": "Did you know...",
+      "question": "that KodaDot had fuckups during its early days? Yeah, all startups go through failures to learn from mistakes. That's how we knew that our product is getting better."
+    },
+    "14": {
+      "heading": "Did you know...",
+      "question": "that KodaDot has its core values and ethos being distributed, decentralized and community-owned? Try participating in our ever-growing community!"
+    },
+    "15": {
+      "heading": "Did you know...",
+      "question": "that KodaDot has replaced three of its logos in one month?"
+    },
+    "16": {
+      "heading": "Did you know...",
+      "question": "that KodaDot's community translations was greatest growth hack for building community to participate?"
+    },
+    "17": {
+      "heading": "Did you know...",
+      "question": "that KodaDot had 420 Discord members on their investors pitch deck? What a coincidence."
+    },
+    "18": {
+      "heading": "Did you know...",
+      "question": "that KodaDot's founders encourage forking it's codebase and welcome more KodaDot instances in the wild?"
+    },
+    "19": {
+      "heading": "Did you know...",
+      "question": "that one of KodaDot's founders was running an infrastructure for eSports back in 2006?"
+    },
+    "20": {
+      "heading": "Did you know...",
+      "question": "that these facts don't even matter? We just love to spend time with you till your action is finalized into Blockchain."
+    },
+    "21": {
+      "heading": "Don't forget to...",
+      "question": "drink enough water to stay hydrated!"
+    },
+    "22": {
+      "heading": "Did you know...",
+      "question": "that we've more than 500 opened issues in our backlog on GitHub?"
+    },
+    "23": {
+      "heading": "Did you know...",
+      "question": "that KodaDot promotes an inclusive culture to be welcoming for a wide spectrum of artists that contribute to its growth?"
+    },
+    "24": {
+      "heading": "Did you know...",
+      "question": "that if you make a pull request on KodaDot's repository, your fun fact can be shown here?"
+    },
+    "25": {
+      "heading": "Did you check...",
+      "question": "your JPEG sales today?"
+    },
+    "26": {
+      "heading": "Have you...",
+      "question": "minted something beautiful today?"
+    },
+    "27": {
+      "heading": "Did you know...",
+      "question": "that the first version of KodaDot looked worse than Craiglist in 1999?"
+    },
+    "28": {
+      "heading": "Did you know...",
+      "question": "that KodaDot's founders won a few Ethereum and Polkadot hackathons in the past?"
+    },
+    "29": {
+      "heading": "Did you know...",
+      "question": "that KodaDot had to lay off few dozens investors interested in backing us?"
+    },
+    "30": {
+      "heading": "Did you know...",
+      "question": "that KodaDot cares about Climate change by planting trees in Portugal, called KodaForest?"
+    },
+    "31": {
+      "heading": "Did you know...",
+      "question": "that the founders of KodaDot believe in simulated reality?"
+    },
+    "32": {
+      "heading": "Did you know...",
+      "question": "that you look beautiful today?"
+    },
+    "33": {
+      "heading": "Did you know...",
+      "question": "that people from all over the world contribute to our codebase?"
+    },
+    "34": {
+      "heading": "Did you know...",
+      "question": "KodaDot has offset 10,000 kilograms of CO2, which is equivalent to 2,500 cheeseburgers."
+    },
+    "35": {
+      "heading": "Did you know...",
+      "question": "that you can get an overview of all available shortcuts by pressing '?'"
+    }
+  },
+  "sort": {
+    "BLOCK_NUMBER_DESC": "New first",
+    "BLOCK_NUMBER_ASC": "Old first",
+    "UPDATED_AT_DESC": "Last interacted",
+    "UPDATED_AT_ASC": "Long time no interaction",
+    "PRICE_DESC": "From most expensive",
+    "PRICE_ASC": "From cheaper",
+    "listed": "Buy now"
+  },
+  "mint": {
+    "submit": "Click to create NFT(s)",
+    "estimate": "Show me the transaction fees",
+    "estimated": "Transaction fees will cost about",
+    "success": "Congrats to your new NFT(s)",
+    "shareWithFriends": "Share {0} with your friends",
+    "unlimited": "Unlimited items in in your collection",
+    "nfsw": "Explicit content (NSFW)",
+    "mass": "NFT mass minter",
+    "command": "List of commands for mass mint",
+    "transform": "Transform commands in NFT",
+    "deposit": "Current deposit",
+    "expert": {
+      "show": "Show advanced settings",
+      "hide": "Hide advanced settings",
+      "count": "Currently matched {0} adresses",
+      "countGlitch": "You have more adresses than available editions. This can cause a problem. Consider to set EDITION field to at least to {0}",
+      "postfix": "Add hashtag and index after the name (e.g #1)",
+      "sync": "Sync editions to {0}"
+    },
+    "collection": {
+      "name": {
+        "label": "Collection name",
+        "placeholder": "Enter collection name",
+        "message": "Name of your collection. It will be visible in the gallery"
+      },
+      "description": {
+        "label": "Collection description",
+        "placeholder": "Enter collection description",
+        "message": "Description of your collection. Markdown is supported"
+      },
+      "symbol": {
+        "label": "Symbol (short name)",
+        "placeholder": "3-5 character long name",
+        "message": "The symbol which is attributed to the NFT: for an example, Kusama is labeled as KSM"
+      }
+    },
+    "nft": {
+      "name": {
+        "label": "name",
+        "placeholder": "Enter NFT name",
+        "message": "Name of your NFT. It will be visible in the gallery"
+      },
+      "description": {
+        "label": "NFT description",
+        "placeholder": "Enter NFT description",
+        "message": "Description of your NFT. Markdown is supported"
+      },
+      "edition": {
+        "label": "Edition",
+        "placeholder": "Minimum is 1",
+        "message": "Number of NFTs to be minted"
+      }
+    }
+  },
+  "tooltip": {
+    "symbol": "The symbol which is attributed to the NFT: for an example, Kusama is labeled as KSM",
+    "name": "NFT will be visible under this name in gallery",
+    "edition": "Number of copies",
+    "created": "Created by",
+    "collections": "Collections created by",
+    "sold": "Nfts sold by",
+    "collected": "Nfts collected by",
+    "buy": "Show only nfts available for purchase",
+    "random": "Go to random page",
+    "buyDisabled": "Not enough balance"
+  },
+  "nft": {
+    "carbonless": "This NFT is carbonless",
+    "burned": "NFT is burned",
+    "description": "NFT description",
+    "name": "Name your NFT",
+    "frozen": "NFT is frozen",
+    "event": {
+      "MINTNFT": "🖼  MINT",
+      "LIST": "📰  LIST",
+      "SEND": "🎁  GIFT",
+      "CONSUME": "🔥 BURN",
+      "BUY": "🤝  BUY"
+    }
+  },
+  "loader": {
+    "casting": "(1/3) Casting the tx to blockchain",
+    "finalized": "(3/3) Finalized",
+    "block": "(2/3) Transaction in block",
+    "pinImage": "Pinning Image",
+    "pinMeta": "Pinning Metadata",
+    "constructTx": "Constructing transaction",
+    "sign": "Waiting for response from singer",
+    "ipfs": "Uploading data to IPFS",
+    "arweave": "Storing data via PermaFrost",
+    "uploading": "({0}/{1}) Uploading data to IPFS",
+    "checkBalance": "Checking if you have enough balance"
+  },
+  "Spotlight": "Spotlight",
+  "Simple": "Simple",
+  "About": "About",
+  "FAQ": "FAQ",
+  "Partnerships & Ambassadors": "Partnerships & Ambassadors",
+  "Press Kit": "Press Kit",
+  "Jobs": "Jobs",
+  "theatre": "theatre",
+  "view": "view",
+  "price": "price",
+  "arweave": {
+    "uploadYes": "Upload NFT image to Arweave",
+    "uploadNo": "Do not use Arweave",
+    "tooltip": "Using Arweave means that you are storing your multimedia forever on Arweave, good for small assets like JPEG."
+  },
+  "carbonOffset": {
+    "carbonOffsetYes": "I'm making carbonless NFT",
+    "carbonOffsetNo": "I don't want to have carbonless NFT",
+    "tooltip": "Carbonless NFT means that you are helping cover costs for carbon credits and planting trees"
+  },
+  "support": {
+    "tooltip": "Cover costs mean that users help to support initial costs for KodaDot which stores your JPEG on your behalf."
+  },
+  "termOfService": {
+    "accept": "I confirm that I hold full copyright ownership of the submitted digital asset (or have sufficient permission by the owner to use the asset)"
+  },
+  "profile": {
+    "user": "User",
+    "created": "Created",
+    "collected": "Collected",
+    "sold": "Sold",
+    "showQr": "Show QR"
+  },
+  "spotlight": {
+    "title": "User Spotlight",
+    "subtitle": "Featuring the most active collectors and artits on RMRK.",
+    "filter_accounts": "Accounts With Identity",
+    "id": "Creator",
+    "sold": "Sold",
+    "unique": "∃!",
+    "total": "Total",
+    "averagePrice": "Ø price",
+    "count": "Σ collection",
+    "collectors": "Collectors",
+    "score": "Score",
+    "empty": "Empty",
+    "uniqueCollectors": "∃! collectors"
+  },
+  "series": {
+    "title": "Top Collection",
+    "subtitle": "The top NFTs on RMRK, ranked by volume, floor price and other statistics.",
+    "assets": "Assets",
+    "buys": "Buys",
+    "collected": "Collected",
+    "floorprice": "Floor price",
+    "owners": "Owners",
+    "volume": "Volume"
+  },
+  "tutorial": {
+    "create": "1. Create polkadot js account",
+    "ksm": "2. Get KSM",
+    "mint": "3. Minting"
+  },
+  "general": {
+    "balance": "Balance",
+    "submit": "Submit",
+    "remove": "Remove",
+    "correctAddress": "Correct address format",
+    "copyUrl": "Copy URL",
+    "openUrl": "Open URL"
+  },
+  "helper": {
+    "noCollections": "You have no collections",
+    "noInfinityCollections": "You have no collections with unlimited NFTs",
+    "indexerReadOnly": "App is in read only mode, try reload app or visit Discord",
+    "clickToCreate": "Click here to create collection",
+    "urlToTransform": {
+      "label": "URL to transform",
+      "placeholder": "singular.rmrk.app/collectibles/",
+      "copy": "Kodadot link successfuly copied"
+    }
+  },
+  "cookies": {
+    "notice": "We use third-party 🍪 in order to personalize your site experience",
+    "accept": "Accept",
+    "decline": "Decline"
+  },
+  "action": {
+    "admin": "Admin panel",
+    "click": "Click to {0} NFT(s)",
+    "omitListed": "Skip listed NFT(s)",
+    "random": "Use random",
+    "distributionCount": "Percent which will be distributed",
+    "sendToMyself": "Send to myself"
+  },
+  "identity": {
+    "set": "Create on-chain identity",
+    "click": "Click to create identity",
+    "handleRequired": "Your handle is required",
+    "deposit": "Deposit"
+  },
+  "massMint": {
+    "tutorial": {
+      "basic": {
+        "title": "Basic mass mint",
+        "description": "This is the basic mass mint, it will create NFTs with the same symbol and name, but different amount. It will also create different amount of NFTs with the same symbol and name, but different amount."
+      },
+      "range": {
+        "title": "Mass mint range",
+        "description": "You can specify the range of the mass mint, it will create NFTs with the same symbol and name, but different amount. It will also create different amount of NFTs with the same symbol and name, but different amount."
+      },
+      "all": {
+        "title": "Mass mint all",
+        "description": "You can specify the range of the mass mint, it will create NFTs with the same symbol and name, but different amount. It will also create different amount of NFTs with the same symbol and name, but different amount."
+      }
+    },
+    "syntax": {
+      "file": "File name (e.g awesome_1.jpg)",
+      "name": "Name of the NFT (e.g Awesome Token)",
+      "amount": "Price of the token (e.g 0.01)",
+      "description": "Mutliline description of the token (e.g This is an awesome token)",
+      "range": "Range of the tokens (e.g 1-5)",
+      "all": "Apply to all tokens (use three dots: ...)"
+    }
+  },
+  "collapse": {
+    "collection": {
+      "description": {
+        "show": "Show me the description",
+        "hide": "Hide the description"
+      },
+      "attributes": {
+        "show": "Show on-chain attributes",
+        "hide": "Hide on-chain attributes"
+      }
+    }
+  },
+  "sharing": {
+    "collection": "Check out this awesome Collection on KodaDot",
+    "nft": "Check out this awesome NFT on KodaDot",
+    "pack": "Check out this awesome Pack on KodaDot",
+    "profile": "Check out this awesome Profile on KodaDot"
+  },
+  "warning": {
+    "newTransactionWhilePriceSet": "Setting the price now requires making an additional transaction."
+  },
+  "teleport": {
+    "route": "Teleporting {0} from {1} to {2}"
+  },
+  "preferences": {
+    "basic": "basic user interface",
+    "advanced": "advanced user interface",
+    "theater": "Enable Theatre View on default",
+    "fold": {
+      "history": "Fold history and price chart in NFT view on default",
+      "description": "Fold description in collection view on default"
+    },
+    "yolo": "Replace BUY NOW with YOLO",
+    "priceVisible": "Always show price in gallery and collection view by default",
+    "loadAllArtworks": "Load all artworks in gallery on default (videos, etc.)"
+  }
+}
